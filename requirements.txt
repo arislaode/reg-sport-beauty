@@ -58,7 +58,7 @@ paramiko==2.0.0
 passlib==1.7.1
 pexpect==4.2.1
 Pillow==5.1.0
-pipenv==2018.11.26
+pipenv==2022.1.8
 protobuf==3.0.0
 psutil==5.4.2
 psycopg2==2.8.4
